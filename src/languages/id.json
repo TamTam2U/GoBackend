@@ -1,0 +1,16 @@
+{
+    "form": {
+        "required": "{0} harus diisi.",
+		"email":    "{0} tidak valid.",
+		"gte":      "{0} harus sama dengan {1} atau lebih.",
+		"lte":      "{0} harus sama dengan {1} atau kurang."
+    },
+    "message" : {
+        "key" : "value"
+    },
+    "dict" : {
+		"Name":  "Nama",
+		"Age":   "Umur",
+		"Email": "Surel"
+	}
+}

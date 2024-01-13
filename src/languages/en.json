@@ -1,0 +1,16 @@
+{
+    "form": {
+        "required": "{0} is a required field.",
+		"email":    "{0} is invalid.",
+		"gte":      "{0} must be {1} or greater.",
+		"lte":      "{0} must be {1} or smaller."
+    },
+    "message" : {
+        "key" : "value"
+    },
+    "dict" : {
+		"Name":  "Name",
+		"Age":   "Age",
+		"Email": "Email"
+	}
+}
